@@ -1,4 +1,4 @@
-<h1 align="center">Hey I'm Victor</h1>
+<h1 align="center">Hey 👋 I'm Victor</h1>
 <p align="center">
   Full Stack Engineer · Nairobi, Kenya · Building for the web 🌍
 </p>
@@ -33,9 +33,6 @@
   <a href="https://linkedin.com/in/victor-musembi-nzai">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
   <a href="mailto:victor.nzai@strathmore.edu">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
@@ -51,15 +48,15 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=VictorNzai&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=VictorNzai&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorNzai/VictorNzai/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorNzai/VictorNzai/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VictorNzai/VictorNzai/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorNzai/VictorNzai/output/pacman-contribution-graph-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorNzai/VictorNzai/output/pacman-contribution-graph.gif">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VictorNzai/VictorNzai/output/pacman-contribution-graph.gif">
 </picture>
 
 ###
