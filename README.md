@@ -1,8 +1,8 @@
-# 💫 About Me:
-# Hey, I'm Victor 👋<br><br>Full Stack Engineer · Based in Mombasa, Kenya · Building for the web<br><br>---<br><br>⚡ I build full stack web apps — from auth to deployment.  <br>🚀 Startup-tested. Shipped real products under real constraints.  <br>🧩 Product-minded developer — I think in user outcomes, not just tickets.  <br>🌍 Open to remote opportunities.<br><br>---<br><br>### Stack<br><br>`React.js` `Next.js` `TypeScript` `Node.js` `TailwindCSS`  <br>`Supabase` `Firebase` `PostgreSQL` `PHP` `Vercel`<br><br>---<br><br>### Currently<br><br>📌 Building and contributing to production web apps  <br>📖 Leveling up on system design + TypeScript depth<br><br>---<br><br>### Connect<br><br>📬 victormusembi@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/victormusembi)
+## 💫 About Me:
+## Hey, I'm Victor 👋<br><br>Full Stack Engineer · Based in Mombasa, Kenya · Building for the web<br><br>---<br><br>⚡ I build full stack web apps — from auth to deployment.  <br>🚀 Startup-tested. Shipped real products under real constraints.  <br>🧩 Product-minded developer — I think in user outcomes, not just tickets.  <br>🌍 Open to remote opportunities.<br><br>---<br><br>### Stack<br><br>`React.js` `Next.js` `TypeScript` `Node.js` `TailwindCSS`  <br>`Supabase` `Firebase` `PostgreSQL` `PHP` `Vercel`<br><br>---<br><br>### Currently<br><br>📌 Building and contributing to production web apps  <br>📖 Leveling up on system design + TypeScript depth<br><br>---<br><br>### Connect<br><br>📬 victormusembi@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/victormusembi)
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/victor-musembi-nzai) 
 
 # 💻 Tech Stack:
