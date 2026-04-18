@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 I'm Victor</h1>
 <p align="center">
-  Full Stack Engineer · Nairobi, Kenya · Building for the web 🌍
+  Full Stack Engineer · Mombasa, Kenya · Building for the web 🌍
 </p>
 
 ###
@@ -47,16 +47,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=VictorNzai&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</div>
-
-###
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorNzai/VictorNzai/output/pacman-contribution-graph-dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorNzai/VictorNzai/output/pacman-contribution-graph.gif">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VictorNzai/VictorNzai/output/pacman-contribution-graph.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorNzai/VictorNzai/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorNzai/VictorNzai/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VictorNzai/VictorNzai/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
