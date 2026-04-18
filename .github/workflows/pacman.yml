@@ -13,8 +13,11 @@ jobs:
         with:
           github_user_name: VictorNzai
           outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+            dist/pacman-contribution-graph.svg?color_snake=#ff79c6&color_dots=#6272a4,#bd93f9,#ff79c6,#ffb86c,#50fa7b&color_food=#ffb86c
+            dist/pacman-contribution-graph-dark.svg?color_snake=#ff79c6&color_dots=#6272a4,#bd93f9,#ff79c6,#ffb86c,#50fa7b&color_food=#ffb86c&color_empty=#44475a
+            dist/pacman-contribution-graph.gif?color_snake=#ff79c6&color_dots=#6272a4,#bd93f9,#ff79c6,#ffb86c,#50fa7b&color_food=#ffb86c&type=pacman
+            dist/pacman-contribution-graph-dark.gif?color_snake=#ff79c6&color_dots=#6272a4,#bd93f9,#ff79c6,#ffb86c,#50fa7b&color_food=#ffb86c&color_empty=#44475a&type=pacman
+
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
